@@ -1,0 +1,11 @@
+<script lang="ts">
+</script>
+
+<slot></slot>
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+	@tailwind base;
+	@tailwind components;
+	@tailwind utilities;
+</style>
